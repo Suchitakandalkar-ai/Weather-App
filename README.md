@@ -1,6 +1,3 @@
-
-# Weather app code is available on Master branch.
-
 Weather is an Android app for Weather check. It uses openweathermap API. It is single screen app which displays weather data for a city.
 
 Architecture: The app is built with the Model-View-ViewModel (MVVM) architecture with Repository pattern which is used to separate the app's user interface, logic, and data. used jetpack compose to design the UI, hilt, handled error also, written test cases for view model.
